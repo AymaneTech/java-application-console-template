@@ -1,7 +1,5 @@
 package com.wora.common.utils;
 
-import com.wora.ticket.domain.valueObjects.Price;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
